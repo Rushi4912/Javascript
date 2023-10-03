@@ -1,0 +1,17 @@
+// The arr.forEach method allows to run a function for every element of the array.
+const arr = [12, 34, 56, 78, 122];
+
+arr.forEach(function (number, index) {
+   console.log(number,index);
+});
+
+// The methods arr.indexOf and arr.includes have the similar syntax and do essentially the same as their string counterparts, but operate on items instead of characters:
+
+   // arr.indexOf(item, from) – looks for item starting from index from, and returns the index where it was found, otherwise -1.
+
+  //  arr.includes(item, from) – looks for item starting from index from, returns true if found.
+
+let arr2 = [1, 0, false];
+  
+console.log(arr2.indexOf(0));
+console.log(arr2.includes(1));
