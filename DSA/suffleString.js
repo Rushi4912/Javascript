@@ -1,4 +1,4 @@
-ar restoreString = function(s, indices) {
+var restoreString = function(s, indices) {
   
      const n = s.length;
   const shuffled = new Array(n);
