@@ -1,5 +1,5 @@
 // The arr.forEach method allows to run a function for every element of the array.
-const arr = [12, 34, 56, 78, 122];
+const arr = [12, 34, 56, 78, 122,56,23];
 
 arr.forEach(function (number, index) {
    console.log(number,index);
