@@ -2,7 +2,7 @@
 
 // It modifies arr starting from the index start: removes deleteCount elements and then inserts elem1, ..., elemN at their place. Returns the array of removed elements.
 
-let myArray = ["Rushi", "Mohit", "Rohit", "Riya"];
+let myArray = ["Rushi", "Mohit", "Rohit", "Riya","pawar"];
 
 const remove = myArray.splice(0, 1, "pawar");
 
@@ -15,7 +15,7 @@ console.log(remove);
 
 // The splice method is also able to insert the elements without any removals. For that we need to set deleteCount to 0:
 
-let arr = ["I", "study", "JavaScript"];
+let arr = ["I", "study", "JavaScript","react"];
 
 // from index 2
 // delete 0
