@@ -62,12 +62,10 @@ for (let i = 0; i < fruits2.length; i++) {
 
 const arr1 = ["apple", "banana", "grapes"];
 
-const arr2 = [].concat(arr1, "almonds", "paneer"); // by using concat method
-const arr3 = arr1.slice(0).concat(["beans"]); // by using slice method
+const arr21 = [].concat(arr1, "almonds", "paneer"); // by using concat method
 const arr5 = [...arr1, "item1", "item2"]; // by using spread operator
 
-console.log(arr2);
-console.log(arr3);
+console.log(arr21);
 console.log(arr5);
 
 // destructuring of array
