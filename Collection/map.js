@@ -1,7 +1,8 @@
 const person = {
      id: 1,
      firstName : "rushi",
-     age: 21
+     age: 21,
+     address: "latur"
 };
 
 
