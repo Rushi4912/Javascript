@@ -15,7 +15,8 @@ console.log(remove);
 
 // The splice method is also able to insert the elements without any removals. For that we need to set deleteCount to 0:
 
-let arr = ["I", "study", "JavaScript","react"];
+let arr = ["I", "study", "JavaScript", "react"];
+let myArray3 = ["food", "newOne"];
 
 // from index 2
 // delete 0
