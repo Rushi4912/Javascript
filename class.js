@@ -6,7 +6,7 @@ class animal {
      }
 
      about(){
-          return "animal is cute";
+          return "animal is cute although";
      }
      bark(){
           return "animal is barking";
