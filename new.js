@@ -57,14 +57,3 @@ const find = (myarray, target) => {
 
      return false;
 }
-const ans = find([23, 45, 12, 56, 67, 567], 5);
-
-console.log(ans);
-
-const add = function (number1, number2) {
-  return number1 + number2;
-};
-
-console.log(typeof add);
-let fruits2 = ["apple", "orange", "plum"];
-console.log(fruits2.at(-2));
