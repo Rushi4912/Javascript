@@ -44,3 +44,8 @@ let number3 = Object.entries(combineArray);  // gives array of key values pair
 console.log(number);
 console.log(number2);
 console.log(number3);
+
+for (let i = 0; i <= 10; i++){
+
+  console.log("hello");
+}
