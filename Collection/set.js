@@ -1,4 +1,4 @@
-const number = [ 5,6,4,6,434];
+const number = [ 5,6,4,6,434,45];
 
 const newOne = new Set(number);
 newOne.add(90);
