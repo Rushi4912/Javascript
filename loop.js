@@ -39,13 +39,8 @@ let number =  Object.keys(combineArray);   // gives array of keys
 let number2 = Object.values(combineArray);  // gives array of values
 
 let number3 = Object.entries(combineArray);  // gives array of key values pair
+const person = {
 
-
-console.log(number);
-console.log(number2);
-console.log(number3);
-
-for (let i = 0; i <= 10; i++){
-
-  console.log("hello");
+  name: "Rushi",
+  age: 23
 }
