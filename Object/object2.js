@@ -60,10 +60,3 @@ let person6 = {
        }
   }
 }
-const myVar = person6.about(15);
-console.log(myVar);
-console.log(person6.age);
-for(let keys in person6){
-
-  console.log(person6[keys]);
-}
