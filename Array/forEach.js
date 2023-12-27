@@ -11,7 +11,3 @@ arr.forEach(function (number, index) {
 
   //  arr.includes(item, from) – looks for item starting from index from, returns true if found.
 
-let arr2 = [1, 0, false];
-  
-console.log(arr2.indexOf(0));
-console.log(arr2.includes(1));
