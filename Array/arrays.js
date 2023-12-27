@@ -100,9 +100,3 @@ for (let i of arr1) {
 }
 console.log(newArray3);
 
-// for in loop
-const newArray4 = [];
-for (let index in arr1) {
-  newArray4.push(arr1[index].toUpperCase());
-}
-console.log(newArray4);
