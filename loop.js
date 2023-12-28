@@ -39,8 +39,3 @@ let number =  Object.keys(combineArray);   // gives array of keys
 let number2 = Object.values(combineArray);  // gives array of values
 
 let number3 = Object.entries(combineArray);  // gives array of key values pair
-const person = {
-
-  name: "Rushi",
-  age: 23
-}
