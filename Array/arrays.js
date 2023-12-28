@@ -87,16 +87,5 @@ console.log(newArray);
 // while loop
 const newArray2 = [];
 let i = 0;
-while (i < arr1.length) {
-  newArray2.push(arr1[i].toUpperCase());
-  i++;
-}
-console.log(newArray2);
-
-// for of loop
-const newArray3 = [];
-for (let i of arr1) {
-  newArray3.push(i.toUpperCase());
-}
-console.log(newArray3);
-
+const array = ["food", "eat", "green"];
+console.log(array);
