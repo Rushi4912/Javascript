@@ -45,15 +45,3 @@ const sum = function () {
 
 isEven(7);
      
-const find = (myarray, target) => {
-     
-     for (let i = 0; i < myarray.length; i++) {
-
-          if (myarray[i] === target) {
-               return true;
-          }
-
-     }
-
-     return false;
-}
