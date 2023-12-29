@@ -16,3 +16,4 @@ const myData = main();
 myData.then((data) => {
   console.log(data);
 });
+console.log("hi there");
