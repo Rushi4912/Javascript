@@ -2,7 +2,8 @@
 let person3 = {
   // key :  values
      name: "pawar",
-     age : 21,
+      age: 21,
+     address: "Latur",
      email : "pawar@gmail.com",
      let : "use let",  // for an object property we can use javascript reserved syntax
      1 : "one",  // if we declare key by using number then javascript automatically convert number to string 
