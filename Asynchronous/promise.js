@@ -19,3 +19,4 @@ myPromise
   .catch((error) => {
     console.log(error);
   });
+console.log("Hello world");
