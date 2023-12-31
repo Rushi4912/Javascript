@@ -17,7 +17,7 @@ console.log(typeof person3[1]);
 console.log("age" in person3);  // we can use in syntax for ckecking whether property is present or not
 console.log(person3["email"]);
 
-person3["about"] = "i am software engineer from india";
+person3["about"] = "i am software engineer from ";
   console.log(person3);
 console.log(person3["about"]);
 
