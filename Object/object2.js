@@ -42,7 +42,7 @@ for(let key in person3){
 }
 
 let person6 = {
-  name: "Rushikesh",
+  name: "Rushikesh Pawar",
   age: 21,
   about: function( age ){
 
