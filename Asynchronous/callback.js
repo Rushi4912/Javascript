@@ -12,5 +12,6 @@ const fetchData = (callback) => {
 function myfunction(data, data2) {
   console.log(data.message);
   console.log(data2[1]);
+  console.log("Hello world");
 }
 fetchData(myfunction);
