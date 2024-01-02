@@ -15,5 +15,5 @@ async function main() {
 const myData = main();
 myData.then((data) => {
   console.log(data);
-  console.log("Hello world");
+ 
 });
