@@ -12,3 +12,4 @@ console.log(arr);
 let arr2 = ["R", "U", "S", "H", "I"];
 let ans = arr2.join("");
 console.log(ans);
+console.log("hello")
