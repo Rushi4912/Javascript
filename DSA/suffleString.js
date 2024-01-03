@@ -13,5 +13,5 @@ var restoreString = function(s, indices) {
 const array = ["apple", "new"];
 for (let i = 0; i <= 10; i++){
 
-  console.log("hi there");
+  
 }
