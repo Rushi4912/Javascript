@@ -39,3 +39,4 @@ const array3 = ["item1","item2","item3","item4"];
 // it takes three arguments (index,delete,insert)
 
 console.log(array4);
+comsole; log("hello there");
