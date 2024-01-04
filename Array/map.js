@@ -9,3 +9,4 @@ const ans = user.map(function (item, index) {
 });
 
 console.log(ans);
+console.log("hi there");
