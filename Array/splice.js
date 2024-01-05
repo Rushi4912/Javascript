@@ -21,3 +21,4 @@ let myArray3 = ["food", "newOne"];
 // from index 2
 // delete 0
 // then insert "complex" and "language"
+console.log("Hello world");
