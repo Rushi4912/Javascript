@@ -22,4 +22,3 @@ let users = [
 let user = users.find((item) => item.id == 1);
 
 console.log(user.name); // John
-console.log("hi")
