@@ -34,3 +34,4 @@ const obj2 = new dog("sheru",5,25);
 
 console.log(obj2.name);
 console.log(obj2.calculateSpeed());
+console.log("hello world");
