@@ -6,3 +6,4 @@ let arr = ["name", "pawar", "nope", "hi"];
 // it return new array
 const ans = arr.slice(1, 2);
 console.log(ans);
+console.log("hi there");
