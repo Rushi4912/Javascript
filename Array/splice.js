@@ -17,6 +17,10 @@ console.log(remove);
 
 let arr = ["I", "study", "JavaScript", "react"];
 let myArray3 = ["food", "newOne"];
+let arra7 = [1, 56, 6, 7];
+for (let i = 0; i <= 20; i++){
+     console.log(i);
+}
 
 // from index 2
 // delete 0
