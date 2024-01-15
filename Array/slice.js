@@ -5,4 +5,3 @@ let arr = ["name", "pawar", "nope", "hi"];
 // slice method exclude last index 
 // it return new array
 const ans = arr.slice(1, 2);
-console.log(ans);
