@@ -1,5 +1,4 @@
-const myArray = ["apple", "banana", "mango"];
-for (let i = 0; i <= myArray.length; i++){
-     
-     console.log(myArray);
+let myName = "Rushikesh";
+for (let i = 0; i <= 10; i++){
+     console.log(myName);
 }
