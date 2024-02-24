@@ -23,3 +23,5 @@ const person = {
           console.log("lets do that");
      }
 }
+
+console.log(person.age);
