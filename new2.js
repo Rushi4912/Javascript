@@ -7,3 +7,8 @@ if (age < 15) {
 } else {
      console.log("greater than 15");
 }
+
+for (let i = 0; i <= 10; i++){
+
+     console.log("Hello");
+}
