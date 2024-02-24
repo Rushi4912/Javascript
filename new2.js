@@ -15,3 +15,11 @@ for (let i = 0; i <= 10; i++){
 
 const fruits = ["mango", "banana", "apple"];
 console.log(fruits);
+
+const person = {
+     name: "Rushikesh",
+     age: 15,
+     hobby: function () {
+          console.log("lets do that");
+     }
+}
