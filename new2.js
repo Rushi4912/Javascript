@@ -12,3 +12,6 @@ for (let i = 0; i <= 10; i++){
 
      console.log("Hello");
 }
+
+const fruits = ["mango", "banana", "apple"];
+console.log(fruits);
