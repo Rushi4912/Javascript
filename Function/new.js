@@ -1,6 +1,6 @@
 
 
-let myVariable = "any variable";
+
 
 function print(){
 
