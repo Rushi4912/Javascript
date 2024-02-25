@@ -72,5 +72,5 @@ const useMe = (name ,age)=>{
      return name;
 }
 
- console.log(useMe("Rushikesh",21));
+
 
