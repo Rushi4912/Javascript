@@ -51,17 +51,6 @@ function isPrime(n){
 
 // showPrime(20);
 
-
-function min(a , b){
-
-     if(a<b){
-          return a;
-     }
-
-     return b;
-}
-
-
 let age = 20;
 
 if(age<18){
