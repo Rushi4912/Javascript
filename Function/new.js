@@ -68,9 +68,5 @@ else{
 }
 
 
-const useMe = (name ,age)=>{
-     return name;
-}
-
 
 
