@@ -67,6 +67,5 @@ else{
 
 }
 
-console.log("hello world");
 
 
