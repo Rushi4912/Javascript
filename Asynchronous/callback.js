@@ -15,3 +15,6 @@ function myfunction(data, data2) {
   
 }
 
+let n = 10;
+
+console.log(n);
