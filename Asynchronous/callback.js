@@ -14,4 +14,4 @@ function myfunction(data, data2) {
   console.log(data2[1]);
   
 }
-fetchData(myfunction);
+
